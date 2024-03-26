@@ -1,0 +1,17 @@
+QUESTION: meaning of meta charset UTF-8 in html.
+
+ANSWER>>>
+   The <meta charset="UTF-8"> tag in HTML serves an essential purpose. Let’s break it down:
+
+>>>CHARACTER ENCODING:
+The charset attribute specifies the character encoding for the HTML document.
+It tells web browsers how to interpret and display the text content of the webpage.
+In this case, UTF-8 is the chosen character encoding.
+>>>UTF-8:
+UTF-8 stands for Universal Character Set + Transformation Format—8-bit.
+It is a widely used character encoding capable of representing all possible characters (called code points) in the Unicode standard.
+Unicode encompasses a vast range of characters, including letters, symbols, emojis, and more from various languages and scripts.
+>>>WHY USE UTF-8?:
+UTF-8 is recommended because it covers almost all characters and symbols in the world.
+By using UTF-8, web developers ensure that their webpages can display content correctly regardless of the user’s language or character requirements.
+In summary, <meta charset="UTF-8"> ensures that your webpage’s text content is encoded in a way that accommodates diverse characters and maintains consistency across different devices and browsers.
